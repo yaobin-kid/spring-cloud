@@ -16,6 +16,7 @@ zuul-server api服务网关 访问地址 http://{ip}:{api服务网关运行端�
 Application名称}/具体的controller
 
 
+ user-provider-1   user-provider-2 用于模拟多台负载操作
 
 
 
